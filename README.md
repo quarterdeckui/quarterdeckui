@@ -2,20 +2,16 @@
 
 # QuarterDeck
 
-**A free Windows control room for your AI coding agents.**
+**A free control room for your AI coding agents on Windows, macOS and Linux, running on the plans you already pay for.**
 
-QuarterDeck shows every AI coding agent on your computer in one place: Claude Code, Codex, Gemini CLI and Antigravity.
+QuarterDeck shows every AI coding agent on your computer in one place: Claude Code, Codex, Gemini CLI, Antigravity and the Claude app.
 
-- See what each agent is doing, what it costs and how much of your plan is left.
+- See what each agent is doing, what it uses and how much of your plan is left.
 - Run your own tasks next to them, and let several models discuss, compare and build together in Agora.
 - It runs on your computer and sends nothing to us.
 
-**Download:** [quarterdeck-releases](https://github.com/quarterdeckui/quarterdeck-releases/releases). The first public release is on its way.
+**Download:** [the latest release](https://github.com/quarterdeckui/quarterdeck-releases/releases/latest) for Windows, macOS and Linux. The tour, video and screenshots are on the [project page](https://github.com/quarterdeckui/quarterdeck-releases#readme).
 
-**Support:** one-time, any amount you choose, on [Buy Me a Coffee](https://buymeacoffee.com/quarterdeckui). Supporters get Agora's gift modes as a thank-you: send your machine code (QuarterDeck → ♥ Support us) and your gift code arrives by email.
+**Support:** one-time, any amount you choose, on [Buy Me a Coffee](https://buymeacoffee.com/quarterdeckui). Supporters get Agora's gift modes as a thank-you: in QuarterDeck open ♥ Support us and ask for your gift code there; it arrives by e-mail.
 
 **Contact:** quarterdeckui@gmail.com
-
----
-
-**Türkçe:** QuarterDeck, yapay zekâ kod ajanların için ücretsiz bir Windows kontrol odası. Her ajanın ne yaptığını, ne harcadığını ve kotandan ne kaldığını tek yerde görürsün; senin bilgisayarında çalışır ve bize hiçbir şey göndermez. Destek tek seferliktir, tutarı sen seçersin: [Buy Me a Coffee](https://buymeacoffee.com/quarterdeckui). İletişim: quarterdeckui@gmail.com
